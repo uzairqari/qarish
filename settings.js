@@ -1,9 +1,9 @@
 const fs = require('fs')
 
 // >~~~~~~~~~~ Owner Setting ~~~~~~~~~~~< //
-global.owner = "6285742314174"
-global.ownername = "XyzzMoods - Deruhu"
-global.botname = "Shadow Executive"
+global.owner = "923473930877"
+global.ownername = "MR QARI SAHAB"
+global.botname = "QARI-CRASHER"
 global.footer = "© XyzzMoods - Deruhu"
 global.packname = "XyzzMoods - Deruhu"
 
